@@ -1,6 +1,6 @@
-##Vim for Light Table
+##Visible Whitespace for Light Table
 
-A thin wrapper around CodeMirror's vim mode that integrates it into Light Table.
+Does what it says on the tin.
 
 ###License
 
